@@ -161,6 +161,7 @@ nav .nav-menu ul li {
   bottom: 0rem;
   justify-content: center;
   background-color: #474B4f;
+  z-index: -1;
   
 }
 
